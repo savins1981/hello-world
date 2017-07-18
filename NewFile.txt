@@ -1,0 +1,1 @@
+Create NewFile.txt to check comparison with master branch
